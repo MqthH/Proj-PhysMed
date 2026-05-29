@@ -1,7 +1,11 @@
-### To do list
+# To do list
 ## PhysMed
-- Apprendre anatomie thorax
-- Apprendre cancer
-## Cybersec
-- Créer le serveur
-## AI
+- Tumeurs pulmonaires
+## CompSci
+- Créer serveur
+- Trouver Dataset
+- Logiciel lecture image
+- Trouver AI open source
+## Projet
+- Objectifs
+- Résultats attendus
