@@ -1,11 +1,10 @@
 # To do list
 ## PhysMed
-- Tumeurs pulmonaires
+- Lecture segmentation dataset
 ## CompSci
-- Créer serveur
-- Trouver Dataset
-- Logiciel lecture image
-- Trouver AI open source
+- Connecter laptop à la VM
+- Apprendre U-net
 ## Projet
 - Objectifs
 - Résultats attendus
+- Présentations
