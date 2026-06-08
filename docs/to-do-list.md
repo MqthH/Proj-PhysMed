@@ -1,9 +1,9 @@
 # To do list
 ## PhysMed
-- Lecture segmentation dataset
 ## CompSci
-- Connecter laptop à la VM
-- Apprendre U-net
+- Coder U-net
+- Optimiser dataset.py
+- Rendre utilisable VM 
 ## Projet
 - Objectifs
 - Résultats attendus

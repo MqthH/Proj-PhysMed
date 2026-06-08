@@ -8,3 +8,6 @@
 - Possible objectifs: segmentation tumeur et détection nodule
 ## 29 mai 2026
 - `README.md`
+## 4 mai 2026
+- Création dataset.py
+- Connecter PC au serveur
