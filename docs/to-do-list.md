@@ -1,10 +1,9 @@
 # To do list
 ## PhysMed
 ## CompSci
-- Coder U-net
-- Optimiser dataset.py
-- Rendre utilisable VM 
+- Schématiser l'architecture u-net
+- Coder ébauche U-net 
+- Importer segmentation dataset
+- Nettoyer les données du dataset
 ## Projet
-- Objectifs
-- Résultats attendus
-- Présentations
+- Présentation
