@@ -17,3 +17,8 @@
 - Débuter développement U-net 
 - Connecter stockage et importer dataset complet à la VM
 - Mettre à jour la to-do-list
+## 22 juin 2026
+- Terminer u_net.py
+- Débuter train.py
+
+
